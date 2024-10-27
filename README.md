@@ -11,8 +11,8 @@
 # Requirements
 For building and running the application you need:
 
-JDK 17 or newer
-Maven
-Redis
-Lombok
-Docker
+- JDK 17 or newer
+- Maven
+- Redis
+- Lombok
+- Docker
